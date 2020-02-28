@@ -7,7 +7,7 @@
 #include <cstdlib>
 using namespace std;
 
-#include "LinkList/SLL_Node.h"
+#include "SLL_Node.h"
 
 int main()
 {
